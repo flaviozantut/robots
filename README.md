@@ -17,7 +17,7 @@ Installation with Laravel Artisan
 ## Usage
 
 	php artisan robots::build
-	
+
 	php artisan robots::build "Kill all Mice"
 	
 	php artisan robots::build protect
